@@ -1,9 +1,6 @@
 lastupdatecheck: 0
 recentrepos:
 - /home/bamdad/.config/lazygit
-- /home/bamdad/git/sound-scape-explorer
-- /home/bamdad/git/screwmycode-in--www
 startuppopupversion: 5
-customcommandshistory:
-- q
+customcommandshistory: []
 hidecommandlog: false
