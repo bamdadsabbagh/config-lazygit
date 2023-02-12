@@ -1,0 +1,13 @@
+gui:
+  showIcons: true
+  theme:
+    lightTheme: true
+    activeBorderColor:
+      - black
+      - bold
+    inactiveBorderColor:
+      - black
+    defaultFgColor:
+      - black
+os:
+  openCommand: "code -rg {{filename}}"
