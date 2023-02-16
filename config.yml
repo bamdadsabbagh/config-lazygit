@@ -11,3 +11,4 @@ gui:
       - black
 os:
   openCommand: "code -rg {{filename}}"
+  editCommand: "nvim"
